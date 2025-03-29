@@ -23,6 +23,11 @@ This project is about using any LLM provided by watsonX to compare initial NDAs.
 - ✅ Transform document into PDF to be ready to ship
 
 ## Installation
+**Pyton-Setup:** 
+1. Make sure to install Python version between ``` 3.10 and 3.12!! ```
+2. Install the packages from requirements.txt with ``` pip install -r requirements.txt```
+
+**Project-Setup:**
 1. Clone this repository
 2. Create a ``` .env ``` file in the same folder
 3. Download a example NDA from box.com

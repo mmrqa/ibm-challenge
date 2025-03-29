@@ -1,0 +1,3 @@
+ibm_watsonx_ai
+dotenv
+docx2txt
