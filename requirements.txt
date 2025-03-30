@@ -1,3 +1,5 @@
 ibm_watsonx_ai
 dotenv
 docx2txt
+docxcompose
+python-docx
