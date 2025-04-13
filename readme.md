@@ -50,3 +50,25 @@ IBMLOCATION = https://eu-de.ml.cloud.ibm.com
 ## License
 
 ## Contact
+
+
+# Assistant Streamlit App
+
+## Configure the environment
+
+Add your Watson API Key in the .env file
+
+```bash
+WATSON_API_KEY=
+WATSON_SERVICE_URL=https://api.eu-de.assistant.watson.cloud.ibm.com/instances/1b0ed03b-0c5c-4bfd-a93c-ee7b32531a6c
+WATSON_ASSISTANT_ID=4d79225f-2c24-4bc8-bcd3-fc4a6ebd2748
+WATSON_ACTION_SKILL_ID=10b158f5-22f0-463c-8b1a-0274b045fb4a
+WATSON_ENVIRONMENT_ID=d8fe6e12-e0f6-44b1-8bda-ea5b7c9fd35d
+LIVE_WATSON_ENVIRONMENT_ID=d8fe6e12-e0f6-44b1-8bda-ea5b7c9fd35d
+```
+
+## Run the application
+
+```
+streamlit run group11_assistant.py
+```
