@@ -66,7 +66,13 @@ WATSON_ACTION_SKILL_ID=10b158f5-22f0-463c-8b1a-0274b045fb4a
 WATSON_ENVIRONMENT_ID=d8fe6e12-e0f6-44b1-8bda-ea5b7c9fd35d
 LIVE_WATSON_ENVIRONMENT_ID=d8fe6e12-e0f6-44b1-8bda-ea5b7c9fd35d
 ```
-
+# Watson Discovery
+## Configure environment
+Add Watson Discovery API key in .env file 
+DISCOVERY_APIKEY=
+DISCOVERY_URL=https://api.eu-de.discovery.watson.cloud.ibm.com/instances/1ce004c3-8b95-4571-beff-a4d1ba3f345a
+DISCOVERY_PROJECT_ID=911531fd-9fe9-4721-8635-6ae100d99d94
+DISCOVERY_COLLECTION_ID=014bfcf5-bb75-813b-0000-0196005c4c4c
 ## Run the application
 
 ```
